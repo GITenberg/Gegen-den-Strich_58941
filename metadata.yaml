@@ -1,0 +1,34 @@
+_repo: Gegen-den-Strich_58941
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Capsius, Marie
+    gutenberg_agent_id: '50220'
+    url: http://www.gutenberg.org/2009/agents/50220
+creator:
+  author:
+    agent_name: Huysmans, J.-K. (Joris-Karl)
+    aliases:
+    - Huysmans, Joris Karl
+    - Huysmans, Jaris-Karl
+    - Huysmans, Jorris-Karl
+    - Huysmans, Charles-Marie-Georges
+    - Huysmans, Joris-Karl
+    birthdate: 1848
+    deathdate: 1907
+    gutenberg_agent_id: '4324'
+    url: http://www.gutenberg.org/2009/agents/4324
+    wikipedia: http://en.wikipedia.org/wiki/Joris-Karl_Huysmans
+description: ''
+gutenberg_issued: '2019-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58941'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Gegen den Strich
+url: http://www.gutenberg.org/ebooks/58941
