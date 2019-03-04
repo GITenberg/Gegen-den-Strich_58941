@@ -5,6 +5,9 @@ contributor:
     agent_name: Capsius, Marie
     gutenberg_agent_id: '50220'
     url: http://www.gutenberg.org/2009/agents/50220
+covers:
+- cover_type: archival
+  image_path: 58941-h/images/cover.jpg
 creator:
   author:
     agent_name: Huysmans, J.-K. (Joris-Karl)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4324
     wikipedia: http://en.wikipedia.org/wiki/Joris-Karl_Huysmans
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58941#Gegen-den-Strich
 gutenberg_issued: '2019-02-23'
 gutenberg_type: Text
 identifiers:
